@@ -7,6 +7,6 @@ TODO__
 
 TODO__
 
-Deadline : První část 22.9.__
+Deadline : První část 22.10.__
 
 # Materiály k projektu
