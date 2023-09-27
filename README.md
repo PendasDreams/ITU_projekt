@@ -7,6 +7,6 @@ TODO__
 
 TODO__
 
-Deadline : 27. 11. 2023 v 23:59__
+Deadline : První část 22.9.__
 
 # Materiály k projektu
