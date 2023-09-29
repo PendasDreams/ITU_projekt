@@ -1,12 +1,17 @@
 Důvodnění návrhu:
 
-Naším cílem je vytvořit aplikaci, která usnadní správu financí a rozpočtování pro běžné uživatele. Toto téma vychází z reálné potřeby, kterou pozorujeme ve svém okolí a mezi našimi stávajícími zákazníky. Mnoho lidí má obtížnosti s plánováním svých financí a sledováním svých výdajů. Existující aplikace na trhu mohou být příliš složité, nepřehledné nebo nabízet příliš mnoho funkcí, které běžní uživatelé nepotřebují.
+Naším cílem je vytvořit aplikaci, která usnadní správu financí a rozpočtování pro běžné uživatele.
+Toto téma vychází z reálné potřeby, kterou pozorujeme ve svém okolí a mezi našimi stávajícími zákazníky.
+Mnoho lidí má obtížnosti s plánováním svých financí a sledováním svých výdajů.
+Existující aplikace na trhu mohou být příliš složité, nepřehledné nebo nabízet příliš mnoho funkcí, které běžní uživatelé nepotřebují.
 
 Naše aplikace se bude zaměřovat na následující aspekty:
 
-Jednoduché a Přehledné Rozpočtování: Vytvoříme intuitivní rozhraní, které umožní uživatelům snadno vytvořit a spravovat svůj osobní rozpočet. Uživatelé budou moci jednoduše sledovat své příjmy a výdaje a získávat přehled o svých financích.
+Jednoduché a Přehledné Rozpočtování: Vytvoříme intuitivní rozhraní, které umožní uživatelům snadno vytvořit a spravovat svůj osobní rozpočet.
+Uživatelé budou moci jednoduše sledovat své příjmy a výdaje a získávat přehled o svých financích.
 
-Automatické Kategorizace: Aplikace bude schopna automaticky kategorizovat transakce, což uživatelům usnadní sledování toho, kam peníze jdou. Tím pádem bude možné rychle identifikovat, kde lze ušetřit nebo naopak, kam je potřeba více investovat.
+Automatické Kategorizace: Aplikace bude schopna automaticky kategorizovat transakce, což uživatelům usnadní sledování toho, kam peníze jdou.
+Tím pádem bude možné rychle identifikovat, kde lze ušetřit nebo naopak, kam je potřeba více investovat.
 
 Upozornění na Placení Účtů: Aplikace bude schopna upozorňovat uživatele na blížící se platby a splatnosti faktur, což jim pomůže vyhnout se pozdním poplatkům.
 
@@ -14,4 +19,5 @@ Sdílení a Spolurozhodování: Uživatelé budou moci sdílet své rozpočty a 
 
 Vzdělávací Materiály: Aplikace bude také nabízet vzdělávací materiály a tipy na správu financí, aby uživatelé mohli zlepšit své finanční dovednosti.
 
-Naše aplikace bude reagovat na potřeby běžných lidí, kteří chtějí efektivně spravovat své financí, ale chtějí jednoduchý a uživatelsky přívětivý nástroj. Tímto způsobem chceme naplnit existující mezeru na trhu a zajistit, že naši uživatelé budou mít nástroj, který jim pomůže dosáhnout finanční stability a lepšího rozpočtování.
+Naše aplikace bude reagovat na potřeby běžných lidí, kteří chtějí efektivně spravovat své financí, ale chtějí jednoduchý a uživatelsky přívětivý nástroj.
+Tímto způsobem chceme naplnit existující mezeru na trhu a zajistit, že naši uživatelé budou mít nástroj, který jim pomůže dosáhnout finanční stability a lepšího rozpočtování.
