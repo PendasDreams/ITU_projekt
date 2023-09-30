@@ -1,0 +1,20 @@
+Naším cieľom je vytvoriť aplikáciu, ktorá používateľom umožní spravovať a rozdeľovať spoločné výdavky na rôzne aktivity a výlety jednoduchým a spravodlivým spôsobom. Táto potreba vychádza z bežných situácií, keď sa skupina ľudí delí o náklady na výlety, večere, ubytovanie a iné aktivity.
+
+Existujúce spôsoby správy spoločných výdavkov môžu byť zdĺhavé, neprehľadné a často vedú k nedorozumeniam a konfliktom. Naša aplikácia bude tieto problémy riešiť a poskytne používateľom nástroj, ktorý uľahčí správu spoločných financií.
+
+Naša aplikácia bude ponúkať tieto kľúčové funkcie:
+
+Spravodlivé rozdelenie výdavkov:
+Vytvoríme systém, ktorý používateľom umožní zaznamenávať výdavky spojené s konkrétnou činnosťou.
+Bude možné jednoducho pridávať účastníkov a rozdeľovať výdavky podľa vopred definovaných pravidiel alebo ručne.
+
+Sledovanie výdavkov:
+Používatelia budú môcť vidieť, koľko každý účastník zaplatil a koľko by mal ešte zaplatiť, aby sa náklady spravodlivo rozdelili.
+
+Upozornenia a platby:
+Aplikácia bude používateľov upozorňovať na nezaplatené sumy alebo blížiace sa termíny platieb.
+Uľahčí vykonávanie platieb priamo z aplikácie, aby sa uľahčilo vyrovnanie dlhu.
+História a štatistiky:
+
+Umožní používateľom zobraziť históriu výdavkov a zistiť, ako boli výdavky rozdelené v minulosti.
+Bude poskytovať užitočné štatistiky a grafy, aby používatelia mohli lepšie plánovať budúce spoločné akcie.
