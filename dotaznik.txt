@@ -1,0 +1,25 @@
+Aplikace na objednání jízdenek hromadné dopravy
+1)Použili už jste někdy takovou aplikaci?
+	Ne – přeskoč na otázku 4
+2)Jaké?
+3)Jak často tyto aplikace používáte?
+4)Slyšeli jste o:
+	•IDS JMK Poseidon
+	•Regiojet
+	•IDOS (Ano, přes to se dá objednat jízdenka)
+	•Můj vlak
+	•Sejf
+	•PID Lítačka
+	•OneTicket
+	•FlixBus
+	•DB Navigator
+5)Jaké zásadní vlastnosti by tato aplikace měla mít?
+6)Jste spokojeni s množstvím času, který je potřeba k použití aplikace?
+7)Po ukázaní se zeptat na první dojmy.
+8)Mohli byste mi ukázat, jak byste postupovali při nákupu jízdenky v aplikaci – Poseidon, RegioJet …
+	•Zeptat se na pocity
+9)Mohli byste mi ukázat, jak byste postupovali při dobíjení kreditu v aplikaci – Poseidon, RegioJet …
+10)Mohli byste mi ukázat, jak byste postupovali při zrušení jízdenky v aplikaci – Poseidon, RegioJet …
+11)Je nějaká funkčnost, která vám v aplikaci chybí?
+	•Jaká?
+
