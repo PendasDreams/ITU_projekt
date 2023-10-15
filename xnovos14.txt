@@ -1,23 +1,23 @@
-Důvodnění návrhu:
+Návrh vylepšení aplikace RegioJet pro sdílení polohy
 
-Naším cílem je vytvořit aplikaci, která usnadní správu financí a rozpočtování pro běžné uživatele.
-Toto téma vychází z reálné potřeby, kterou pozorujeme ve svém okolí a mezi našimi stávajícími zákazníky.
-Mnoho lidí má obtížnosti s plánováním svých financí a sledováním svých výdajů.
-Existující aplikace na trhu mohou být příliš složité, nepřehledné nebo nabízet příliš mnoho funkcí, které běžní uživatelé nepotřebují.
 
-Naše aplikace se bude zaměřovat na následující aspekty:
+Důvody:
 
-Jednoduché a Přehledné Rozpočtování: Vytvoříme intuitivní rozhraní, které umožní uživatelům snadno vytvořit a spravovat svůj osobní rozpočet.
-Uživatelé budou moci jednoduše sledovat své příjmy a výdaje a získávat přehled o svých financích.
+Zvýšení bezpečnosti: Sdílení polohy umožní cestujícím informovat své rodinné příslušníky nebo přátele o své aktuální pozici během cesty. To je zvláště užitečné v případě delších cest nebo cest v noci, kdy mohou blízcí zůstat uklidněni vědomím, že cestující jsou v pořádku.
 
-Automatické Kategorizace: Aplikace bude schopna automaticky kategorizovat transakce, což uživatelům usnadní sledování toho, kam peníze jdou.
-Tím pádem bude možné rychle identifikovat, kde lze ušetřit nebo naopak, kam je potřeba více investovat.
+Snížení stresu: Sdílení polohy může snížit stres u cestujících, kteří nejsou obeznámeni s trasou nebo místním prostředím. Rodinní příslušníci budou mít možnost sledovat postup cesty a poskytovat užitečné informace, například o zpožděních nebo místech, kde je možné zastavit.
 
-Upozornění na Placení Účtů: Aplikace bude schopna upozorňovat uživatele na blížící se platby a splatnosti faktur, což jim pomůže vyhnout se pozdním poplatkům.
+Lepší koordinace: Sdílení polohy může také pomoci při koordinaci setkání na stanici nebo na jiném místě určení. Uživatelé budou moci jednoduše sdílet svou aktuální polohu a stanovit místo setkání s ostatními.
 
-Sdílení a Spolurozhodování: Uživatelé budou moci sdílet své rozpočty a plány s rodinou nebo spolubydlícími a společně rozhodovat o financích a výdajích.
+Více pohodlí: Vylepšení naší aplikace o tuto funkci přinese uživatelům více pohodlí a zvýší atraktivitu našich služeb. Umožní nám konkurovat s jinými dopravci a zvýšit loajalitu našich zákazníků.
 
-Vzdělávací Materiály: Aplikace bude také nabízet vzdělávací materiály a tipy na správu financí, aby uživatelé mohli zlepšit své finanční dovednosti.
 
-Naše aplikace bude reagovat na potřeby běžných lidí, kteří chtějí efektivně spravovat své financí, ale chtějí jednoduchý a uživatelsky přívětivý nástroj.
-Tímto způsobem chceme naplnit existující mezeru na trhu a zajistit, že naši uživatelé budou mít nástroj, který jim pomůže dosáhnout finanční stability a lepšího rozpočtování.
+
+Konkrétní naplnění uživatelských potřeb:
+
+Sdílení polohy s rodinnými příslušníky nebo přáteli: Uživatelé budou moci vybrat konkrétní osoby, se kterými chtějí sdílet svou polohu. Tyto osoby budou dostávat pravidelné aktualizace o poloze cestujícího.
+
+Omezení doby sdílení: Uživatelé budou moci nastavit dobu, po kterou chtějí sdílet svou polohu. Po uplynutí této doby se sdílení automaticky vypne.
+
+Jednoduché zapnutí a vypnutí: Tato funkce bude snadno dostupná v menu naší aplikace a bude jednoduchá k ovládání.
+
