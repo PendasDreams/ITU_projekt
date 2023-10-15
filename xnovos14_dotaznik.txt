@@ -1,0 +1,56 @@
+Jak často používáte aplikaci pro objednání lístků v hromadné dopravě?
+ Denně
+ Několikrát týdně
+ Měsíčně
+ Zřídka
+ nikdy
+Jaký typ hromadné dopravy nejčastěji využíváte pomocí naší aplikace? (např. vlak, autobus, tramvaj)
+
+Co bylo dosud nejdůležitějším důvodem, proč jste naši aplikaci používali?
+
+Jaké klíčové problémy nebo obtíže jste se setkali při používání naší aplikace pro objednání lístků?
+
+Jak byste popsali proces vyhledávání a nákupu lístků v naší aplikaci? (např. jednoduchý, složitý, rychlý, zdlouhavý)
+
+Jaké funkce nebo vylepšení byste si přáli v naší aplikaci, které by zlepšily vaši zkušenost?
+
+Jak byste ohodnotili uživatelské rozhraní naší aplikace (1 - velmi špatné, 5 - vynikající)?
+
+ 1
+ 2
+ 3
+ 4
+ 5
+Máte nějaké další komentáře nebo nápady, které byste s námi chtěli sdílet ohledně naší aplikace?
+
+
+
+
+
+
+Dotazníkem prošli 4 studenti, kteří používají hromadnou doparvu
+Odpovědí uživatelů vyplívá
+
+většina několikrát týdně
+nejčastěji používají vlak
+důvod používání je, že regiojet má dobré doplňkové služby - levné občerstvení, pohodlné cestování
+klíčový problém je že rodina neví jestli dobře dojeli a jelikož jsou zapomětliví tak zapomínají zavolat rodině
+proces je velice intuitivní a jednoduchý
+většina by ocenila přidání sdílení polohy
+všichni jsou spokojeni s rozhraním a jednoduchou použitelností
+
+
+
+Analýza
+Aplikace je velice oblíbená a má dobré rozhraní,
+uživatelé jsou s touto aplikací po všech stránkách spokojeni,
+jen by ocenili modul pro práci se sdílenou polohou.
+
+
+
+
+
+
+
+
+
