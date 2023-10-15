@@ -1,5 +1,7 @@
 Přednosti:
 
+Intuitivní používání aplikace
+
 Jednoduchá rezervace: Aplikace umožňuje snadnou rezervaci jízdenek na autobusy a vlaky RegioJet. Uživatelé mohou rychle vyhledávat spoje, vybrat si sedadla a provést platbu.
 
 Aktualizace o jízdním řádu: Aplikace poskytuje aktuální informace o jízdním řádu a zpožděních, což pomáhá cestujícím plánovat své cesty.
@@ -19,3 +21,7 @@ Jediný dopravce: Aplikace je určena pouze pro služby RegioJet, což může b�
 Omezené jazykové možnosti: Aplikace může mít omezenou podporu pro různé jazyky, což může být problémem pro cestující mimo hlavní jazyk regionu.
 
 Některé technické problémy: Uživatelé mohou narazit na technické problémy, jako jsou chyby při platbě nebo pomalé načítání aplikace.
+
+
+Naše aplikace 
+Bude následovat intuitivní a jednoduché používání aplikace a přidá vylepšení pro prácí se sdílenou polohou.
