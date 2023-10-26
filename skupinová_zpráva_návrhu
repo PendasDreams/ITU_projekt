@@ -2,4 +2,39 @@ Zvolené téma: Vylepšení a opravení aplikace IDOS
 Důvod: Aplikace má ze všech návrhů nejsilnější klíčové nedostatky v přehlednosti a funkcionalitě, a mezi studenty měla nejhorší hodnocení.
 
 
+Klíčové potřeby uživatelů:
+1. Snadné vyhledávání a nákup lístků pro hromadnou dopravu.
+2. Intuitivní a přehledné uživatelské rozhraní.
+3. Sledování výdajů spojených s nákupem lístků.
+4. Personalizace aplikace podle individuálních preferencí.
+5. Možnost rychle a jednoduše zobrazit historii zakoupených lístků.
 
+Uživatelské procesy:
+1. Vyhledávání spoje: 
+    - Spuštění aplikace.
+    - Vstup do sekce "Vyhledávání spojů".
+    - Zadání počáteční a konečné destinace, času odjezdu/příjezdu.
+    - Zobrazení dostupných spojů a výběr vhodného spoje.
+    
+2. Nákup lístku:
+    - Výběr požadovaného spoje z výsledků vyhledávání.
+    - Výběr typu lístku (dospělý, student, senior, atd.).
+    - Provedení platby a obdržení elektronického lístku.
+
+3. Sledování výdajů:
+    - Vstup do sekce "Historie nákupů" nebo "Mé výdaje".
+    - Zobrazení přehledu zakoupených lístků a souvisejících výdajů.
+    - Možnost filtrovat výdaje podle data, typu dopravy, nebo ceny.
+
+4. Personalizace rozhraní:
+    - Vstup do sekce "Nastavení" nebo "Můj profil".
+    - Úprava preferencí, např. změna barevného schématu, upozornění, atd.
+
+Klíčové vlastnosti budoucí aplikace:
+1. Optimalizovaný vyhledávací algoritmus: Rychlé a přesné vyhledávání spojů podle uživatelských preferencí.
+2. Intuitivní UI/UX design: Přehledné a intuitivní rozhraní s jasnými ikonami, popisky a navigací.
+3. Vylepšená sekce sledování výdajů: Možnost vizualizace výdajů v grafech, upozornění na nadměrné výdaje a možnost nastavení měsíčního limitu.
+4. Personalizace: Umožnit uživatelům přizpůsobit si aplikaci podle svých potřeb a preferencí.
+5. Integrovaná historie nákupů: Rychlý přístup k historii zakoupených lístků s možností filtrování a vyhledávání.
+
+Využíváním těchto klíčových vlastností nová aplikace nejenom splní, ale i překoná očekávání uživatelů, což jí poskytne konkurenční výhodu na trhu.
