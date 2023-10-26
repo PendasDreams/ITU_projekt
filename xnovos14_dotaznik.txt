@@ -21,7 +21,7 @@ Jak byste ohodnotili uživatelské rozhraní aplikace (1 - velmi špatné, 5 - v
  3
  4
  5
-Máte nějaké další komentáře nebo nápady, které byste s námi chtěli sdílet ohledně naší aplikace?
+Máte nějaké další komentáře nebo nápady, které byste s námi chtěli sdílet ohledně aplikace?
 
 
 
@@ -29,22 +29,20 @@ Máte nějaké další komentáře nebo nápady, které byste s námi chtěli sd
 
 
 Dotazníkem prošli 4 studenti, kteří používají hromadnou doparvu
-Odpovědí uživatelů vyplívá
+Odpovědí uživatelů vyplívá:
 
 většina několikrát týdně
 nejčastěji používají vlak
-Většinou regiojet
-klíčový problém je že rodina neví jestli dobře dojeli a jelikož jsou zapomětliví tak zapomínají zavolat rodině
-proces je velice intuitivní a jednoduchý
-většina by ocenila přidání sdílení polohy
-všichni jsou spokojeni s rozhraním a jednoduchou použitelností
+Většinou IDOS
+klíčový problém je nepřehledné sledování výdajů, špatná přehlednost aplikace
+aplikace funguje dobře
+většina by ocenila přidání sledování výdajů a zlepšení přehlednosti
 
 
 
 Analýza
-Aplikace regiojet je velice oblíbená a má dobré rozhraní,
-uživatelé jsou s touto aplikací po všech stránkách spokojeni,
-jen by ocenili modul pro práci se sdílenou polohou.
+Aplikace IDOS je velice oblíbená, ale kdyby byla lepší přehlednost a sledování výdajů, byly by uživatelé spokojenější,
+uživatelé jsou s touto aplikací po všech dalších stránkách spokojeni.
 
 
 
