@@ -1,27 +1,30 @@
+Analýza existující aplikace (IDOS):
+
 Přednosti:
 
-Intuitivní používání aplikace
-
-Jednoduchá rezervace: Aplikace umožňuje snadnou rezervaci jízdenek na autobusy a vlaky RegioJet. Uživatelé mohou rychle vyhledávat spoje, vybrat si sedadla a provést platbu.
-
-Aktualizace o jízdním řádu: Aplikace poskytuje aktuální informace o jízdním řádu a zpožděních, což pomáhá cestujícím plánovat své cesty.
-
-Možnost nákupu přes mobilní zařízení: Uživatelé mohou zakoupit lístky přímo přes svá mobilní zařízení, což je pohodlné a šetří čas.
-
-Vernostní program: RegioJet má vernostní program, který umožňuje získat slevy a výhody při častém cestování.
+Oblíbená mezi uživateli.
+Funguje dobře pro nákup lístků.
 
 Nedostatky:
 
-Možnost sledovat průběh cesty: Aplikace neumožňuje sledovat aktuální polohu vozidla během cesty, což může být užitečné pro cestující i jejich blízké.
+Nedostatečná přehlednost aplikace.
+Nepřehledné sledování výdajů za zakoupené lístky.
+Budoucí aplikace:
 
-Omezená dostupnost: Aplikace RegioJet může být omezeně dostupná pro některé regiony mimo střední Evropu, což může omezit její užitečnost pro cestující v jiných oblastech.
+Inspirace z předností:
 
-Jediný dopravce: Aplikace je určena pouze pro služby RegioJet, což může být nevýhodné pro cestující, kteří potřebují kombinovat různé druhy dopravy od různých dopravců.
+Udržet spolehlivost a funkčnost aplikace při nákupu lístků.
 
-Omezené jazykové možnosti: Aplikace může mít omezenou podporu pro různé jazyky, což může být problémem pro cestující mimo hlavní jazyk regionu.
+Řešení nedostatků:
 
-Některé technické problémy: Uživatelé mohou narazit na technické problémy, jako jsou chyby při platbě nebo pomalé načítání aplikace.
+Přehlednost aplikace: Vytvořit intuitivní a uživatelsky přívětivé rozhraní, které umožní snadné vyhledávání spojů, nákup lístků a správu vlastního účtu.
+Možnost přizpůsobení rozhraní podle preference uživatele.
+Výraznější rozlišení jednotlivých sekcí (např. "Mé lístky", "Vyhledávání spojů", "Historie nákupů" atd.).
+Použít jasné ikony a popisky.
+Sledování výdajů: Implementovat funkci, která uživatelům umožní sledovat, kolik utratili za lístky v určitém časovém období.
+Možnost generování měsíčního přehledu výdajů.
+Grafické zobrazení výdajů v čase.
+Upozornění na nadměrné výdaje nebo možnost nastavení měsíčního limitu.
 
-
-Naše aplikace 
-Bude následovat intuitivní a jednoduché používání aplikace a přidá vylepšení pro prácí se sdílenou polohou.
+Závěr:
+I když je aplikace IDOS populární a funkční, existuje prostor pro vylepšení, zejména v oblasti přehlednosti a sledování výdajů. Nová aplikace by měla těžit z předností IDOS a zároveň adresovat zmíněné nedostatky, aby byla ještě uživatelsky přívětivější a nabídla uživatelům větší hodnotu.
