@@ -1,0 +1,22 @@
+Dobrý den, jsem <Jméno>. V projektu jsme se rozhodli řešit úpravu aplikace na objednání jízdenek.
+Existující aplikace se potýkají s častými problémy. 
+uživatel si spěchá a chce si koupit jízdenku co možná nejrychleji v tom mu brání množství a akcí, které je třeba provést. Musí zadat počáteční a cílovou destinaci, nastavit čas odjezdu z nabídnutých jízdenek vybrat tu správnou, a až u placení se dozví je nemá dostatek kreditu na tuto transakci, musí tedy dobít kredit a všechny tyto kroky opakovat
+Nákup jízdenky často doprovází zbytečně mnoho akcí a sledování je řešeno velmi špatným buď chabě nebo vůbec.
+Testování makety odhalilo potřebuji přidání popisku k tlačítku vyhledávání a propojení prvku zůstatku v záhlaví se sekcí finance
+Aplikace bude vytvořena v jazyku Kotlin pomocí android studia, konkrétně frameworky android jetpack FE a
+ktor pro BE s využitým databáze SQLite. Funkční prototyp možnost dobytí kreditu a komunikace s databází(?)
+Děkuji za pozornost
+
+inspirace ze zadání
+Dobrý den, jsem Víťa Beran. Zjistil jsem, že zvířecí útulky potřebují dobrovolníky pro
+venčení psů. Existující rezervační nástroje jsou nevyhovující, udělat si rezervaci
+dobrovolníky odradí. (14s)
+● Dobrovolník si potřebuje na týden až měsíc označit, kdy může nebo nemůže, vybrat
+si druh a velikost psa a dostat informaci, kdy je potřeba jeho pomoci. Tyto termíny si
+chce zpracovat na mobilu, přehledně a rychle. (25s)
+● Test na maketě navrženého GUI odhalil potřebu přidat potvrzení při změně termínu a
+odstranění některých informací z kalendáře, což ušetřilo místo a kalendář je
+přehlednější. (40s)
+● Aplikace bude vytvořena pomocí webových technologií, konkrétně React pro FE a
+Django pro BE. Funkční prorotyp přidává termín a maže termín pomocí tlačítka. (50s)
+● Děkuji.
